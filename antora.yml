@@ -1,6 +1,6 @@
 name: bp-roa-user-guide
 title: ROA user guide
-version: v1.0
+version: 25.04
 start_page: inline-text-formatting.adoc
 asciidoc:
   attributes:
