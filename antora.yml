@@ -1,5 +1,5 @@
-name: component-a
-title: Component A
+name: bp-roa-user-guide
+title: ROA user guide
 version: v1.0
 start_page: inline-text-formatting.adoc
 asciidoc:
